@@ -16,11 +16,11 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
   - Typescript, Node.js, Jest
   - [GitHub Repository](https://github.com/anorderh/kaggle-node), [npm Distribution Page](https://www.npmjs.com/package/kaggle-node)
  
-- **It Takes Guts**: A 2D Hack'n Slash Web Platformer
+- **It Takes Guts**: A 2D Hack'n Slash web platformer
   - C#, Unity game engine
   - [Github Repository](https://github.com/anorderh/unity_it_takes_guts), [Itch.io Page](https://anorde.itch.io/it-takes-guts) (to play the game!)
  
-- Waterboy x Phenomaman Dispatch Mod: A mod unlocking previously locked characters by stripping out compiled code
+- Waterboy x Phenomaman Dispatch Mod: A computer game mod unlocking previously locked characters by stripping out compiled code
   - C++, Unreal Engine
   - [NexusMods Page](https://www.nexusmods.com/dispatch/mods/19), 1k+ downloads
   - A digital [news article](https://www.thegamer.com/dispatch-waterboy-and-phenomaman-same-time/) form TheGamer.com highlighting the mod
