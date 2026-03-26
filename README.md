@@ -16,7 +16,7 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
   - Typescript, Node.js, Jest
   - [GitHub Repository](https://github.com/anorderh/kaggle-node), [npm Distribution Page](https://www.npmjs.com/package/kaggle-node)
  
-- **It Takes Guts**: A 2D Hack'n Slash Web Platformer where you fight enemies in waves
+- **It Takes Guts**: A 2D Hack'n Slash Web Platformer
   - C#, Unity game engine
   - [Github Repository](https://github.com/anorderh/unity_it_takes_guts), [Itch.io Page](https://anorde.itch.io/it-takes-guts) (to play the game!)
  
