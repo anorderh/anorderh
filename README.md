@@ -10,7 +10,7 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
  
 - **YouNotes**: A chrome extension for writing and saving notes inside Youtube's video player
    - Typescript, HTML, CSS, Webpack, Chromium APIs, Extension development
-   - [GitHub Repository](https://github.com/anorderh/YouNotes), [Youtube Demo](https://www.youtube.com/watch?v=vzlDCvqDFgU), [Chrome Web Store Page](https://chromewebstore.google.com/detail/younotes/gehcckelgmjikeplalgonkhdojacadmg)
+   - [GitHub Repository](https://github.com/anorderh/YouNotes), [Youtube Demo](https://www.youtube.com/watch?v=ekAdnSXZCKY), [Chrome Web Store Page](https://chromewebstore.google.com/detail/younotes/gehcckelgmjikeplalgonkhdojacadmg)
 
 - **kaggle-node**: An open source node.js SDK for downloading datasets from Kaggle.com
   - Typescript, Node.js, Jest
@@ -18,7 +18,7 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
  
 - **It Takes Guts**: A 2D Hack'n Slash web platformer
   - C#, Unity game engine
-  - [Github Repository](https://github.com/anorderh/unity_it_takes_guts), [Itch.io Page](https://anorde.itch.io/it-takes-guts) (to play the game!)
+  - [Github Repository](https://github.com/anorderh/unity_it_takes_guts), [Youtube Demo](https://www.youtube.com/watch?v=5odzbZZq-bM&t=1s), [Itch.io Page](https://anorde.itch.io/it-takes-guts) (to play the game!)
  
 - Waterboy x Phenomaman Dispatch Mod: A computer game mod that unlocks characters by stripping out compiled code
   - C++, Unreal game engine
