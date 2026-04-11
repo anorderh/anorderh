@@ -20,7 +20,7 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
   - C#, Unity game engine
   - [Github Repository](https://github.com/anorderh/unity_it_takes_guts), [Youtube Demo](https://www.youtube.com/watch?v=5odzbZZq-bM&t=1s), [Itch.io Page](https://anorde.itch.io/it-takes-guts) (to play the game!)
  
-- Waterboy x Phenomaman Dispatch Mod: A computer game mod that unlocks characters by stripping out compiled code
+- **Waterboy x Phenomaman Dispatch Mod**: A computer game mod that unlocks characters by stripping out compiled code
   - C++, Unreal game engine
   - [NexusMods Page](https://www.nexusmods.com/dispatch/mods/19), 1k+ downloads
   - A digital [news article](https://www.thegamer.com/dispatch-waterboy-and-phenomaman-same-time/) from TheGamer.com highlighting the mod
