@@ -10,7 +10,7 @@ I'm based in Los Angeles, CA and am a fan of all sorts of development from 💻 
  
 - **YouNotes**: A chrome extension for writing and saving notes inside Youtube's video player
    - Typescript, HTML, CSS, Webpack, Chromium APIs, Extension development
-   - [GitHub Repository](https://github.com/anorderh/YouNotes), [Youtube Demo](https://www.youtube.com/watch?v=ekAdnSXZCKY), [Chrome Web Store Page](https://chromewebstore.google.com/detail/younotes/gehcckelgmjikeplalgonkhdojacadmg)
+   - [GitHub Repository](https://github.com/anorderh/YouNotes), [Youtube Demo](https://www.youtube.com/watch?v=L8G_D2YmVl8), [Chrome Web Store Page](https://chromewebstore.google.com/detail/younotes/gehcckelgmjikeplalgonkhdojacadmg)
 
 - **kaggle-node**: An open source node.js SDK for downloading datasets from Kaggle.com
   - Typescript, Node.js, Jest
